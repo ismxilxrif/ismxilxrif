@@ -45,7 +45,7 @@ My focus areas include DevOps practices, cloud deployment engineering, and itera
 ## ⭐ Current Focus
 Sharpening my skills for Cloud Deployment Engineer / DevOps roles, building practical projects, and contributing to open-source where possible.
 
-<img src="//ipv6.he.net/certification/create_badge.php?pass_name=ismailarif&amp;badge=1" style="border: 0; width: 128px; height: 128px" alt="IPv6 Certification Badge for ismailarif" />
+<img src="https://ipv6.he.net/certification/create_badge.php?pass_name=ismailarif&amp;badge=1" style="border: 0; width: 128px; height: 128px" alt="IPv6 Certification Badge for ismailarif" />
 
 <!---
 KesunyianAyam/KesunyianAyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
