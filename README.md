@@ -2,7 +2,7 @@
 
 **Jr. DevOps Engineer | Cloud & Infrastructure Enthusiast | CI/CD | Automation**
 
-I work on building reliable, automated, and scalable infrastructure.  
+I work and learn on building reliable, automated, and scalable infrastructure.  
 My focus areas include DevOps practices, cloud deployment engineering, and iterative improvement of delivery pipelines.
 
 ---
